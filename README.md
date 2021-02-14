@@ -4,7 +4,7 @@ This document provides the links which together form a coherent release of Golde
 
 ## Ontology
 
-version 202102 [https://my.example.com/ga-202101.owl](https://my.example.com/ga-202102.owl)
+version 202102 [https://my.example.com/ga-202102.owl](https://my.example.com/ga-202102.owl)
 
 ## Datasets
 
