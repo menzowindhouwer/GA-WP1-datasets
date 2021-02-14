@@ -2,6 +2,8 @@
  
 This document provides the links which together form a coherent release of Golden Agent datasets
 
+[CHANGES](CHANGES.md) since previous release
+
 ## Ontology
 
 version 202102 [https://my.example.com/ga-202101.owl](https://my.example.com/ga-202102.owl)
